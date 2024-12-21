@@ -3,7 +3,7 @@
 
 <p align=“left”> <a href=“https://twitter.com/tdr_linlin” target=“blank”><img src=“https://img.shields.io/twitter/follow/tdr_linlin?logo=twitter&style=for-the-badge” alt=“tdr_linlin” /></a> </p>
 
-- 🔭 我目前正在研究 [discord-bot-Api]（https://github.com/linlin0417/botapiserver）
+- 🔭 我目前正在研究 [discord-bot-Api]（ https://github.com/linlin0417/botapiserver ）
 
 - 🌱 正在學習 **node express**
 
