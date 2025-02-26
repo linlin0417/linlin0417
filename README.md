@@ -20,7 +20,8 @@
 </p>
 
 <h3 align=“left”>語言和工具：</h3>
-<p align=“left”> <a href=“https://developer.android.com” target=“_blank” rel=“noreferrer”> </a> 
+<p align=“left”>
+  <a href=“https://developer.android.com” target=“_blank” rel=“noreferrer”> </a> 
   <a href=“https://canvasjs.com” target=“_blank” rel=“noreferrer”>  </a>
   <a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”>  </a>
   <a href=“https://cloud.google.com” target=“_blank” rel=“noreferrer”> </a>
@@ -31,5 +32,5 @@
   <a href=“https://nodejs.org” target=“_blank” rel=“noreferrer”>  </a>
   <a href=“https://unity.com/” target=“_blank” rel=“noreferrer”>  </a> 
   <a href=“https://vuejs.org/” target=“_blank” rel=“noreferrer”>  </a>
-  </p>
+</p>
 
