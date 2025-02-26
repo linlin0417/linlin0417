@@ -7,7 +7,7 @@
 
 - 🌱 正在學習 **node express**
 
-- 👯 正在尋求合作 **discordbot-8th**
+- 👯 正在尋求合作 **gitarootbot-v2**
 
 - 🤝 正在尋求幫助 **discordbot-6th-h3**
 
